@@ -1,0 +1,6 @@
+Credentials cache: API:68AA0D88-D409-494F-B76C-2DFF2CD82004
+        Principal: bkrasnos@S19.BE
+
+  Issued                Expires             Flags    Principal
+Mar 11 09:05:55 2022  Mar 11 19:05:55 2022  FPRIA  krbtgt/S19.BE@S19.BE
+Mar 11 09:05:57 2022  Mar 11 19:05:55 2022  FPA    HTTP/san-ssd.s19.be@S19.BE
